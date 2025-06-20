@@ -1,3 +1,5 @@
+[![python-template](https://github.com/car7oskdr/python-template/actions/workflows/python_template.yml/badge.svg)](https://github.com/car7oskdr/python-template/actions/workflows/python_template.yml)
+
 # Python Application Template
 
 A basic Python application template with a clean, organized structure following best practices, using **uv** for fast dependency management.
