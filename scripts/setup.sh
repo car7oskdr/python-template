@@ -19,10 +19,6 @@ echo "✅ uv is installed"
 echo "📦 Installing dependencies..."
 uv sync
 
-# Install pre-commit hooks
-echo "🔧 Setting up pre-commit hooks..."
-uv run pre-commit install
-
 # Run initial tests
 echo "🧪 Running initial tests..."
 uv run pytest tests/ -v
